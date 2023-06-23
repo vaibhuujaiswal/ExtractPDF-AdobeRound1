@@ -33,7 +33,7 @@ The program will call retrivedata() function that will loop through all pdfs in 
 We will then use our extractJsonDataforOutput() function to extract data based on properties of each "element" in json file like font, size, text etc. We will store each variable corresponding to what was asked in the csv file.
 We will append all data in a list and finally store it as a csv file in the main directory.
 
-##Result
+## Result
 ExtractedData.csv contains the result for the given testset.
 
 
